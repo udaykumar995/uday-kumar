@@ -1,0 +1,6 @@
+{
+  "name": "ViralReels AI - AI Viral Reels & YouTube Clips Generator",
+  "description": "Convert long videos into viral, trendy vertical reels and YouTube shorts with AI highlight detection, dynamic captions, and modern presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
